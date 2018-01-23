@@ -174,6 +174,7 @@ janin.currencies = [
     janin.currency.createCurrency ("Rimbit",     0x3c, 0xbc, "7",    "U"    , "RJNYNAafwKmkGf1hb3LDXiL1gRhSPPrXxN"),
     janin.currency.createCurrency ("Rubycoin",   0x3c, 0xbc, "7",    "U"    , "RNsGHZnnr4pa3nYSp5NsuPtqTAGHT6XWqb"),
     janin.currency.createCurrency ("Sambacoin",  0x3e, 0xbe, "7",    "V"    , "SJdiAgazqtum79HzGbNDxi879NzSDjtH5P"),
+    janin.currency.createCurrency ("Scolcoin",   0x3f, 0xbf, "7",    "V"   ,  "SZqYSTCr78yRrCvfZvA4sqxYGLLPC4ysyU"),
     janin.currency.createCurrency ("SecKCoin",   0x3f, 0xbf, "7",    "V"    , "Se1aaa5T1HRpMEfyBPGswVUgTQoZUst9jA"),
     janin.currency.createCurrency ("SibCoin",    0x3f, 0x80, "5",    "[LK]" , "SY7GAzvFVS8bUA89e7hosPMxqMS482ecsp"),
     janin.currency.createCurrency ("SongCoin",   0x3f, 0xbf, "7",    "V"    , "SSK9MXormZXgF5ZfV599okJRXYh3g9RXGN"),
