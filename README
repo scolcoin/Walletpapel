@@ -1,8 +1,8 @@
-Scolcoin
+## Scolcoin
 =====================
 
 Paso 0. Sigue las recomendaciones de la lista de verificación de seguridad
-El primer paso es descargar este website de Github y abrir el archivo index.html directamente desde tu ordenador. Simplemente, es muy sencillo colar algo de código maligno en el javascript de 6000+ líneas para filtrar tu clave privada, y no querrás ver tus fondos siendo robados. El código de control de versiones facilita mucho saber qué ha funcionado realmente hasta la fecha. Para mayor seguridad, desconecta tu acceso a internet mientras estás generando tu cartera.
+El primer paso es descargar este website de Github https://github.com/scolcoin/Walletpapel/archive/refs/heads/master.zip y abrir el archivo index.html directamente desde tu ordenador. Simplemente, es muy sencillo colar algo de código maligno en el javascript de 6000+ líneas para filtrar tu clave privada, y no querrás ver tus fondos siendo robados. El código de control de versiones facilita mucho saber qué ha funcionado realmente hasta la fecha. Para mayor seguridad, desconecta tu acceso a internet mientras estás generando tu cartera.
 
 Paso 1. Genera una nueva dirección
 Elige tu criptodivisa y haz click en el botón "Generar nueva dirección".
@@ -22,12 +22,4 @@ La clave privada es la llave a tus monedas, si alguien la obtuviera, podría ret
 
 Por favor, prueba a gastar una pequeña cantidad antes de recibir cualquier pago grande.
 
-Credit:
-The WalletGenerator.net software is available under The MIT License (MIT)
-Copyright (c) 2014 WalletGenerator.net
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Donaciones: Srsz4KEyRCqfAcNQ9rW7jz52aaSoN7qpfz (Scolcoin)
