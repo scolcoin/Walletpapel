@@ -1,5 +1,5 @@
 ninja.translator = {
-	currentCulture: "es",
+	currentCulture: "en",
 
 	autodetectTranslation: function() {
 		// window.navigator.language for Firefox / Chrome / Opera Safari
